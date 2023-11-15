@@ -1,0 +1,27 @@
+@import url("/styles/reset.css");
+@import url("/styles/header.css");
+@import url("/styles/numeros.css");
+@import url("/styles/banner.css");
+@import url("/styles/vagas.css");
+@import url("/styles/colaborador.css");
+@import url("/styles/rodape.css");
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Josefin+Sans:wght@400;700&family=Poppins:wght@300;400;500;600;700&display=swap');
+
+:root {
+    --cor-primaria: #667085;
+    --cor-secundaria: #8E2424;
+    --preto: #101828;
+    --fonte: 'Inter', sans-serif;
+    --cor-empresa: #3a404e;
+    --branco: #FFFFFF;
+    --cor-borda: #EAECF0;
+    --cor-secundaria-opaca: #8e24240D;
+    --cor-rodape: #F9FAFB;
+    --cor-direitos: #98A2B3;
+}
+
+body {
+    font-family: var(--fonte);
+    font-size: 1rem;
+    font-weight: 400;
+}

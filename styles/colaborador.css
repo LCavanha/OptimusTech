@@ -1,0 +1,38 @@
+.colaborador {
+    text-align: center;
+    width: 80%;
+    margin: auto;
+}
+
+.colaborador__box {
+    margin-top: 3em;
+    background-color: var(--cor-secundaria-opaca);
+    padding: 4em;
+    border-radius: 1em;
+}
+
+.colaborador__intro {
+    color: var(--cor-secundaria);
+    font-size: 0.875rem;
+    font-weight: 600;
+    margin-bottom: 1em;
+}
+
+.colaborador__titulo {
+    color: var(--preto);
+    font-size: 2.25rem;
+    font-weight: 500;
+    margin-bottom: 2em;
+}
+
+.colaborador__nome {
+    margin-top: 1em;
+    color: var(--preto);
+    font-weight: 500;
+}
+
+.colaborador__profissao {
+    font-size: 0.875rem;
+    color: var(--cor-primaria);
+    margin-top: 0.5em;
+}

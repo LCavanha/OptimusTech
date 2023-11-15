@@ -1,0 +1,46 @@
+.cabecalho {
+    display: flex;
+    justify-content: space-between;
+    margin: 2em 5em;
+    align-items: center;
+}
+
+.cabecalho__titulo {
+    display: flex;
+    align-items: center;
+    font-weight: 500;
+}
+
+.cabecalho__empresa {
+    margin-left: 0.5em;
+    font-family: var(--fonte);
+    font-weight: 500;
+    color: var(--cor-empresa);
+    font-size: 1.125rem;
+}
+
+.cabecalho__central {
+    margin-right: 15em;
+    display: flex;
+    gap: 1em;
+}
+
+.cabecalho__opcoes, .cabecalho__cadastro {
+    text-decoration: none;
+    font-size: 1rem;
+    font-weight: 500;
+    color: var(--cor-primaria);
+}
+
+.cabecalho__login {
+    margin: 1 em 0;
+}
+
+.cabecalho__cadastro-botao {
+    padding: 0.5em 1em;
+    background-color: var(--cor-secundaria);
+    color: var(--branco);
+    border-radius: 8px;
+    margin-left: 2em;
+    text-decoration: none;
+}
