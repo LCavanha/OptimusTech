@@ -1,10 +1,10 @@
-@import url("/styles/reset.css");
-@import url("/styles/header.css");
-@import url("/styles/numeros.css");
-@import url("/styles/banner.css");
-@import url("/styles/vagas.css");
-@import url("/styles/colaborador.css");
-@import url("/styles/rodape.css");
+@import url("styles/reset.css");
+@import url("styles/header.css");
+@import url("styles/numeros.css");
+@import url("styles/banner.css");
+@import url("styles/vagas.css");
+@import url("styles/colaborador.css");
+@import url("styles/rodape.css");
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Josefin+Sans:wght@400;700&family=Poppins:wght@300;400;500;600;700&display=swap');
 
 :root {
